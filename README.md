@@ -1,4 +1,4 @@
-# Google-Using-Python-to-Interact-with-the-Operating-System
+# Google Using Python to Interact with the Operating System
 * I followed Google course in Coursera platform
 * The most "interesting" files of this repo would be 
   * connection.sh; personal bash script to connect to virtualLabs
