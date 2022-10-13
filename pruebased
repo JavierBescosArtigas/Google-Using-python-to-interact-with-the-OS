@@ -1,0 +1,7 @@
+hola
+quiero sustituir
+
+#ZSH_THEME="robbyrussell" #original
+#ZSH_THEME="agnoster"
+ZSH_THEME=whatever
+
